@@ -1,0 +1,345 @@
+[
+    {
+        "position": 1,
+        "rank": 0,
+        "patent_id": "patent/CN111181207B/en",
+        "patent_link": "https://patents.google.com/patent/CN111181207B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111181207B%2Fen",
+        "title": "Distributed lithium battery pack energy storage system",
+        "snippet": "The invention discloses a distributed lithium battery pack energy storage system, which includes a plurality of energy storage control units for connecting to a DC bus in parallel; data sharing is performed between the energy storage control units through bus communication; the energy storage \u2026",
+        "priority_date": "2020-01-07",
+        "filing_date": "2020-01-07",
+        "grant_date": "2021-09-21",
+        "publication_date": "2021-09-21",
+        "inventor": "\u7ae0\u6cbb\u56fd",
+        "assignee": "\u91cd\u5e86\u7406\u5de5\u5927\u5b66",
+        "publication_number": "CN111181207B",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/8a/eb/f6/633ac79bbb5250/HDA0002358241940000011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/de/8d/70/732e8d5e735921/CN111181207B.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/b5/38/72/9eb118f34ff550/HDA0002358241940000011.png",
+                "full": "https://patentimages.storage.googleapis.com/ad/cb/bb/f7c91e380f6880/HDA0002358241940000011.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/e4/7a/74/75fbb51c180292/HDA0002358241940000021.png",
+                "full": "https://patentimages.storage.googleapis.com/6b/8f/63/ae2cc229ba4ac2/HDA0002358241940000021.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/2d/0b/d9/ed00fe6a539360/HDA0002358241940000022.png",
+                "full": "https://patentimages.storage.googleapis.com/58/c3/db/a1a3549b521eb0/HDA0002358241940000022.png"
+            }
+        ],
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 2,
+        "rank": 1,
+        "patent_id": "patent/CN116235381A/en",
+        "patent_link": "https://patents.google.com/patent/CN116235381A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116235381A%2Fen",
+        "title": "Circuit control method, battery, controller and management system thereof and \u2026",
+        "snippet": "The embodiment of the application relates to the technical field of batteries and provides a circuit control method, a battery controller, a battery management system, a battery, an electric device and a vehicle. The circuit control method comprises the following steps: acquiring a device wake-up \u2026",
+        "priority_date": "2021-09-30",
+        "filing_date": "2021-09-30",
+        "publication_date": "2023-06-06",
+        "inventor": "\u5362\u65b9\u53cb",
+        "assignee": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN116235381A",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/d3/26/6b/48d69e47fffbfa/PCTCN2021122068-APPB-300001.png",
+        "pdf": "https://patentimages.storage.googleapis.com/73/f1/3a/f729449078f8ee/CN116235381A.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/03/55/ba/5461301c0151f3/PCTCN2021122068-APPB-300001.png",
+                "full": "https://patentimages.storage.googleapis.com/9d/30/df/d4110f9658c8c8/PCTCN2021122068-APPB-300001.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/c7/3e/72/d742d8feae81a0/PCTCN2021122068-APPB-300002.png",
+                "full": "https://patentimages.storage.googleapis.com/f4/bf/78/4f11b6cb2be2c2/PCTCN2021122068-APPB-300002.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/15/8b/96/4295824936e037/PCTCN2021122068-APPB-300003.png",
+                "full": "https://patentimages.storage.googleapis.com/4d/ec/3f/46d138a5def0d6/PCTCN2021122068-APPB-300003.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/1a/77/e9/394853c1fa51cb/PCTCN2021122068-APPB-300004.png",
+                "full": "https://patentimages.storage.googleapis.com/ba/51/19/2c7f5e90d75615/PCTCN2021122068-APPB-300004.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/29/bb/83/4cfdd7e2770bfe/PCTCN2021122068-APPB-300005.png",
+                "full": "https://patentimages.storage.googleapis.com/0f/95/ab/df4bdc31cf2f6f/PCTCN2021122068-APPB-300005.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/cb/f0/00/000c7987c2b8f7/PCTCN2021122068-APPB-300006.png",
+                "full": "https://patentimages.storage.googleapis.com/d2/a2/8e/cb72ccac5180f5/PCTCN2021122068-APPB-300006.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/8f/73/4a/b5d7d8eeb5db23/PCTCN2021122068-APPB-300007.png",
+                "full": "https://patentimages.storage.googleapis.com/c8/b1/af/0c2c83d5df0866/PCTCN2021122068-APPB-300007.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/61/e5/e2/9949bdebe06a8d/PCTCN2021122068-APPB-300008.png",
+                "full": "https://patentimages.storage.googleapis.com/09/a4/73/35a7bd8324143d/PCTCN2021122068-APPB-300008.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/92/f0/10/6b15d044e7463c/PCTCN2021122068-APPB-300009.png",
+                "full": "https://patentimages.storage.googleapis.com/9f/56/e1/0ec7d67b4ad461/PCTCN2021122068-APPB-300009.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/da/f0/95/6fe7da01017003/PCTCN2021122068-APPB-300010.png",
+                "full": "https://patentimages.storage.googleapis.com/00/14/12/69a79b79d12ae8/PCTCN2021122068-APPB-300010.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/03/79/1c/0995901723561b/PCTCN2021122068-APPB-300011.png",
+                "full": "https://patentimages.storage.googleapis.com/0d/2d/d9/0610f5d94e166a/PCTCN2021122068-APPB-300011.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/c3/3e/f2/db9c772fb19c72/PCTCN2021122068-APPB-300012.png",
+                "full": "https://patentimages.storage.googleapis.com/af/08/d9/20d17f12e90a64/PCTCN2021122068-APPB-300012.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/42/c0/73/bc03ae25ea3f61/PCTCN2021122068-APPB-300013.png",
+                "full": "https://patentimages.storage.googleapis.com/8c/8c/95/d2df1a1dcef4a3/PCTCN2021122068-APPB-300013.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/87/bf/96/e55b58daae5be7/PCTCN2021122068-APPB-300014.png",
+                "full": "https://patentimages.storage.googleapis.com/6a/49/4e/fe48a436943531/PCTCN2021122068-APPB-300014.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/29/8b/66/73ae77156d6bda/PCTCN2021122068-APPB-300015.png",
+                "full": "https://patentimages.storage.googleapis.com/e1/89/e0/3ff4a630921992/PCTCN2021122068-APPB-300015.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/cb/6f/11/4e39ae9536fd5c/PCTCN2021122068-APPB-300016.png",
+                "full": "https://patentimages.storage.googleapis.com/de/31/66/290156c9466265/PCTCN2021122068-APPB-300016.png"
+            }
+        ],
+        "country_status": {
+            "WO": "ACTIVE",
+            "EP": "ACTIVE",
+            "US": "ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "ACTIVE",
+            "KR": "ACTIVE"
+        }
+    },
+    {
+        "position": 3,
+        "rank": 2,
+        "patent_id": "patent/CN110406426B/en",
+        "patent_link": "https://patents.google.com/patent/CN110406426B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110406426B%2Fen",
+        "title": "Lithium battery pack system special for lithium electric forklift and control \u2026",
+        "snippet": "The invention discloses a lithium battery pack system special for a lithium electric forklift and a control method, and belongs to the technical field of monitoring of lithium battery packs of electric forklifts. The lithium battery pack system comprises a battery module, a battery management \u2026",
+        "priority_date": "2019-07-29",
+        "filing_date": "2019-07-29",
+        "grant_date": "2021-04-06",
+        "publication_date": "2021-04-06",
+        "inventor": "\u5b59\u82ae",
+        "assignee": "\u676d\u5dde\u9e4f\u6210\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN110406426B",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/97/bb/cd/27ac982982252d/HDA0002147525850000011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/09/c1/d0/30202adf272b73/CN110406426B.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/1d/11/49/9af4e8a221a2ca/HDA0002147525850000011.png",
+                "full": "https://patentimages.storage.googleapis.com/04/a9/35/45e2df4a88c596/HDA0002147525850000011.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/67/8d/44/60ade66992f8b9/HDA0002147525850000021.png",
+                "full": "https://patentimages.storage.googleapis.com/c6/b3/4c/7a4cfd3f1df239/HDA0002147525850000021.png"
+            }
+        ],
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 4,
+        "rank": 3,
+        "patent_id": "patent/CN206758598U/en",
+        "patent_link": "https://patents.google.com/patent/CN206758598U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206758598U%2Fen",
+        "title": "A kind of solar electrically propelled vehicle battery",
+        "snippet": "The utility model discloses a kind of solar electrically propelled vehicle battery,Including shell,Electric power storage tank main body,Positive plate,Negative plate,Dividing plate,Blocking piece,Spring,Pressure sensor,Warning lamp,Miniature relay,Button cell group,Top cover,Liquid injection port \u2026",
+        "priority_date": "2017-05-13",
+        "filing_date": "2017-05-13",
+        "grant_date": "2017-12-15",
+        "publication_date": "2017-12-15",
+        "inventor": "\u7941\u4eba\u6770",
+        "assignee": "\u8d63\u5dde\u5e02\u521b\u7fd4\u7535\u6e90\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN206758598U",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/c1/48/2f/288dbd60df39e4/CN206758598U.pdf",
+        "country_status": {
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 5,
+        "rank": 4,
+        "patent_id": "patent/CN105206868A/en",
+        "patent_link": "https://patents.google.com/patent/CN105206868A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105206868A%2Fen",
+        "title": "A lithium-ion secondary battery for starting an internal combustion engine",
+        "snippet": "The invention relates to a lithium ion secondary battery for starting an internal combustion engine, which comprises a positive electrode, a negative electrode and electrolyte, wherein the positive electrode comprises a positive electrode material, the negative electrode comprises a negative \u2026",
+        "priority_date": "2015-10-23",
+        "filing_date": "2015-10-23",
+        "publication_date": "2015-12-30",
+        "inventor": "\u6768\u548c\u5c71",
+        "assignee": "\u4e1c\u839e\u5e02\u81f4\u683c\u7535\u6c60\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN105206868A",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/0f/be/32/21b3a8a8a2848d/CN105206868A.pdf",
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 6,
+        "rank": 5,
+        "patent_id": "patent/CN116707105A/en",
+        "patent_link": "https://patents.google.com/patent/CN116707105A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116707105A%2Fen",
+        "title": "Intelligent starting power supply system for fuel oil vehicle",
+        "snippet": "The invention discloses an intelligent starting power supply system for a fuel vehicle, which comprises a battery pack, a supercapacitor module, a DC-DC module, a BMS power supply management module, a main control unit, a T-BOX and a remote monitoring module, wherein the battery pack is connected \u2026",
+        "priority_date": "2023-07-13",
+        "filing_date": "2023-07-13",
+        "publication_date": "2023-09-05",
+        "inventor": "\u674e\u4f73\u664b",
+        "assignee": "\u535a\u65af\u5766(\u91cd\u5e86)\u7535\u6c60\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN116707105A",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/00/a3/77/abacfa018bbe4f/CN116707105A.pdf",
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 7,
+        "rank": 6,
+        "patent_id": "patent/CN201868534U/en",
+        "patent_link": "https://patents.google.com/patent/CN201868534U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201868534U%2Fen",
+        "title": "Rechargeable lithium power supply assembly",
+        "snippet": "The utility model relates to a rechargeable lithium power supply assembly, comprising a battery seat, a lithium battery and a charging circuit board, wherein the battery seat is shaped like a barrel with one opened side; an electrode cover is arranged at one end of the battery seat, and charging \u2026",
+        "priority_date": "2010-11-24",
+        "filing_date": "2010-11-24",
+        "grant_date": "2011-06-15",
+        "publication_date": "2011-06-15",
+        "inventor": "\u6613\u4e16\u51e1",
+        "assignee": "\u6613\u4e16\u51e1",
+        "publication_number": "CN201868534U",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/34/95/61/f19e6ae0b3d6fe/HSA00000358066500011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/e8/24/c9/e9421548633d86/CN201868534U.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/66/e8/97/95081268804897/HSA00000358066500011.png",
+                "full": "https://patentimages.storage.googleapis.com/1b/22/11/4b6e9685a46868/HSA00000358066500011.png"
+            }
+        ],
+        "country_status": {
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 8,
+        "rank": 7,
+        "patent_id": "patent/CN205311820U/en",
+        "patent_link": "https://patents.google.com/patent/CN205311820U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205311820U%2Fen",
+        "title": "A hybrid power system for electric bicycle",
+        "snippet": "The utility model relates to a hybrid power system for an electric bicycle, comprising a power type battery pack for providing normal power for a motor of the electric bicycle, and a supercapacitor for providing instantaneous high-power power for the motor of the electric bicycle. It includes an \u2026",
+        "priority_date": "2016-01-21",
+        "filing_date": "2016-01-21",
+        "grant_date": "2016-06-15",
+        "publication_date": "2016-06-15",
+        "inventor": "\u5218\u5bcc\u5fb7",
+        "assignee": "\u5e7f\u5dde\u9053\u52a8\u65b0\u80fd\u6e90\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN205311820U",
+        "language": "en",
+        "pdf": "https://patentimages.storage.googleapis.com/a4/85/63/f9c23a2a093bd5/CN205311820U.pdf",
+        "country_status": {
+            "WO": "ACTIVE",
+            "CN": "NOT_ACTIVE"
+        }
+    },
+    {
+        "position": 9,
+        "rank": 8,
+        "patent_id": "patent/CN111640889A/en",
+        "patent_link": "https://patents.google.com/patent/CN111640889A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111640889A%2Fen",
+        "title": "Airborne self-adaptive emergency power supply and charging and discharging \u2026",
+        "snippet": "The invention provides an onboard self-adaptive emergency power supply and a charging and discharging switching method of the power supply, which can stabilize the temperature performance of a battery cell in the charging process by detecting the surface temperature of the battery cell in real \u2026",
+        "priority_date": "2020-05-26",
+        "filing_date": "2020-05-26",
+        "publication_date": "2020-09-08",
+        "inventor": "\u738b\u6587\u6b22",
+        "assignee": "\u6b66\u6c49\u4e2d\u539f\u957f\u6c5f\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+        "publication_number": "CN111640889A",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/4e/5e/97/44d80d6f888e17/HDA0002508652650000011.png",
+        "pdf": "https://patentimages.storage.googleapis.com/12/6b/50/6c7e056039cef7/CN111640889A.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/da/69/d5/c1600d1f1c73b1/HDA0002508652650000011.png",
+                "full": "https://patentimages.storage.googleapis.com/59/6f/8e/da76f23ddeb5bd/HDA0002508652650000011.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/92/be/07/9d8c9059147789/HDA0002508652650000012.png",
+                "full": "https://patentimages.storage.googleapis.com/a2/b3/44/5ae6128131918b/HDA0002508652650000012.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/19/ea/4c/40551fa99a1ab5/HDA0002508652650000021.png",
+                "full": "https://patentimages.storage.googleapis.com/60/78/d7/cf6c8f812944a9/HDA0002508652650000021.png"
+            },
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/b0/b0/d1/af2c0089295a31/HDA0002508652650000022.png",
+                "full": "https://patentimages.storage.googleapis.com/41/b1/ef/5d1ae03c706edb/HDA0002508652650000022.png"
+            }
+        ],
+        "country_status": {
+            "CN": "ACTIVE"
+        }
+    },
+    {
+        "position": 10,
+        "rank": 9,
+        "patent_id": "patent/CN101682091B/en",
+        "patent_link": "https://patents.google.com/patent/CN101682091B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101682091B%2Fen",
+        "title": "Power system and assembled battery controlling method",
+        "snippet": "The invention provides a power supply system and a control method for a battery pack. The power supply system includes: a plurality of batteries connected in series, and a battery pack that supplies power to equipment from the series circuit of the batteries; the generated power is supplied in \u2026",
+        "priority_date": "2007-06-08",
+        "filing_date": "2007-10-01",
+        "grant_date": "2012-07-25",
+        "publication_date": "2012-07-25",
+        "inventor": "\u9752\u6728\u62a4",
+        "assignee": "\u677e\u4e0b\u7535\u5668\u4ea7\u4e1a\u682a\u5f0f\u4f1a\u793e",
+        "publication_number": "CN101682091B",
+        "language": "en",
+        "thumbnail": "https://patentimages.storage.googleapis.com/19/56/a7/6090850b936642/H2007800532660E00041.png",
+        "pdf": "https://patentimages.storage.googleapis.com/1c/ed/77/aa66731065b3a5/CN101682091B.pdf",
+        "figures": [
+            {
+                "thumbnail": "https://patentimages.storage.googleapis.com/49/67/c3/8354b48b224773/H2007800532660E00041.png",
+                "full": "https://patentimages.storage.googleapis.com/05/30/b8/dda6d3b2c47e6d/H2007800532660E00041.png"
+            }
+        ],
+        "country_status": {
+            "WO": "ACTIVE",
+            "EP": "NOT_ACTIVE",
+            "US": "NOT_ACTIVE",
+            "CN": "ACTIVE",
+            "JP": "NOT_ACTIVE",
+            "KR": "NOT_ACTIVE"
+        }
+    }
+]
